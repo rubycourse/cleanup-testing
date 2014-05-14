@@ -1,4 +1,4 @@
 ruby '1.9.9'
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'bcrypt'
