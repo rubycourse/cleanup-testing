@@ -1,1 +1,3 @@
-fooey
+source :rubygems
+
+gem 'bcrypt'
